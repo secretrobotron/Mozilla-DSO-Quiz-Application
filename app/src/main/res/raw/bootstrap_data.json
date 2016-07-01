@@ -265,7 +265,7 @@
         "id": "3",
         "title": "A Different Password for Each Account",
         "gifUrl": "accountspasswords3",
-        "description": "<b>You should use a different password for every account you make.</b>\nImagine you use Facebook and Gmail with the same password. If someone discovers your Facebook password, they also have access to your Gmail. By using a different password for every account, the only account they have access to is Facebook."
+        "description": "<b>You should use a different password for every account you make.</b><br><br>\nImagine you use Facebook and Gmail with the same password. If someone discovers your Facebook password, they also have access to your Gmail. By using a different password for every account, the only account they have access to is Facebook."
       }, {
         "id": "4",
         "title": "Making a Strong Password",
