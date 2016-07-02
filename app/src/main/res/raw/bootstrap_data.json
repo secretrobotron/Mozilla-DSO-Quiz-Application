@@ -13,7 +13,7 @@
             "id": "2",
             "title": "Where do I get it? Who owns it?",
             "gifUrl": "wifi2",
-            "description": "Wi-Fi networks are created by \"hotspots\" that connect to the internet. Anyone can buy one and set it up at home, at work, or in a public space. If you can detect a Wi-Fi network on your phone, you might be able to connect to it. To learn more about connecting, look at <a href=\"mozilladso://tutorials/2\">Connecting to Wi-Fi</a>."
+            "description": "Wi-Fi networks are created by \"hotspots\" that connect to the internet. Anyone can buy one and set it up at home, at work, or in a public space. If you can detect a Wi-Fi network on your phone, you might be able to connect to it. To learn more about connecting, look at <a href=\"mozilladso:///tutorials/2\">Connecting to Wi-Fi</a>."
         }, {
             "id": "3",
             "title": "Saving Money",
@@ -95,7 +95,7 @@
             "id": "3",
             "title": "Use Airplane Mode",
             "gifUrl": "airplanemode1",
-            "description": "When you are not using your phone or expecting a call from anyone, you can turn on <b>Airplane Mode</b>. This will turn off your phone’s wireless radios completely. Phone calls, mobile data, and bluetooth connections will all be blocked, so no airtime or data will be used. To learn how to turn it on, check out <a href=\"mozilladso://tutorials/5\">Airplane Mode</a>."
+            "description": "When you are not using your phone or expecting a call from anyone, you can turn on <b>Airplane Mode</b>. This will turn off your phone’s wireless radios completely. Phone calls, mobile data, and bluetooth connections will all be blocked, so no airtime or data will be used. To learn how to turn it on, check out <a href=\"mozilladso:///tutorials/5\">Airplane Mode</a>."
         }, {
             "id": "4",
             "title": "Restrict Background Data",
@@ -105,7 +105,7 @@
             "id": "5",
             "title": "Connect to Wi-Fi",
             "gifUrl": "connectwifi2",
-            "description": "The more Wi-Fi you use, the more data you save. Wi-Fi connections are usually stronger, more stable, and less costly than cellular (mobile) ones, though sometimes you have to pay to use someone else’s hotspot. To learn how to connect to Wi-Fi, look at <a href=\"mozilladso://tutorials/2\">Connecting to Wi-Fi</a>."
+            "description": "The more Wi-Fi you use, the more data you save. Wi-Fi connections are usually stronger, more stable, and less costly than cellular (mobile) ones, though sometimes you have to pay to use someone else’s hotspot. To learn how to connect to Wi-Fi, look at <a href=\"mozilladso:///tutorials/2\">Connecting to Wi-Fi</a>."
         }, {
             "id": "6",
             "title": "Disable Auto-update",
@@ -146,7 +146,7 @@
         "id": "4",
         "title": "Data Usage Tips",
         "gifUrl": "data2",
-        "description": "There are many ways to make sure your phone uses small amounts of data, or only uses data when you want it to.\nFor more information and tips, check out Mobile Data Consumption."
+        "description": "There are many ways to make sure your phone uses small amounts of data, or only uses data when you want it to.\nFor more information and tips, check out <a href=\"mozilladso:///tutorials/3\">Mobile Data Consumption</a>."
       }]
     },{
         "id": "5",
@@ -172,7 +172,7 @@
           "id": "4",
           "title": "Using Wi-Fi",
           "gifUrl": "airplanemode4",
-          "description": "Even with Airplane mode turned on, you are still able to use Wi-Fi if you switch it on explicitly. This will ensure that mobile data is not used. Look at <a href=\"mozilladso://tutorials/2\">Connecting to Wi-Fi</a> for more information."
+          "description": "Even with Airplane mode turned on, you are still able to use Wi-Fi if you switch it on explicitly. This will ensure that mobile data is not used. Look at <a href=\"mozilladso:///tutorials/2\">Connecting to Wi-Fi</a> for more information."
         }]
       },{
         "id": "6",
@@ -244,7 +244,7 @@
         "id": "8",
         "title": "Updating",
         "gifUrl": "playstore8",
-        "description": "Occasionally, app creators will need to update or change the content of the app. So, often, they issue updates for their apps through the Play Store.\nUpdating apps consumes data. However, the Play Store will try to download updates automatically when you’re connected to a Wi-Fi hotspot. Look at Disable Auto-Update [link] if you suspect that apps are being updated with your mobile data connection."
+        "description": "Occasionally, app creators will need to update or change the content of the app. So, often, they issue updates for their apps through the Play Store.\nUpdating apps consumes data. However, the Play Store will try to download updates automatically when you’re connected to a Wi-Fi hotspot. Look at Disable Auto-Update in <a href=\"mozilladso:///tutorials/3/\">Mobile Data Consumption</a> if you suspect that apps are being updated with your mobile data connection."
       }]
     },{
       "id": "8",
